@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<departments>
+	<department id="dept_a">
+		<employee >
+		<name>n1</name>
+		<salary>1000</salary>
+		</employee>
+		<employee >
+		<name>n2</name>
+		<salary>5000</salary>
+		</employee>
+		<employee >
+		<name>n3</name>
+		<salary>1500</salary>
+		</employee>
+		<employee >
+		<name>n4</name>
+		<salary>2400</salary>
+		</employee>
+	</department>
+
+	<department id="dept_b">
+    	<employee >
+	    <name>e1</name>
+		<salary>3000</salary>
+		</employee>
+		<employee >
+		<name>e2</name>
+		<salary>3000</salary>
+		</employee>
+		<employee >
+		<name>e3</name>
+		<salary>7000</salary>
+		</employee>
+		<employee >
+		<name>e4</name>
+		<salary>6000</salary>
+		</employee>
+	</department>
+	<department id="dept_c">
+    	<employee >
+	    <name>p1</name>
+		<salary>5000</salary>
+		</employee>
+		<employee >
+		<name>p2</name>
+		<salary>6000</salary>
+		</employee>
+		<employee >
+		<name>p3</name>
+		<salary>15000</salary>
+		</employee>
+		<employee>
+		<name>p4</name>
+		<salary>12000</salary>
+		</employee>
+	</department>
+	<department id="dept_d">
+    	<employee >
+	    <name>m1</name>
+		<salary>15000</salary>
+		</employee>
+		<employee >
+		<name>m2</name>
+		<salary>16000</salary>
+		</employee>
+		<employee>
+		<name>m3</name>
+		<salary>11000</salary>
+		</employee>
+		<employee >
+		<name>m4</name>
+		<salary>12000</salary>
+		</employee>
+	</department>
+	
+</departments>
